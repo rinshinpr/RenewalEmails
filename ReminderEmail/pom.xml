@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>IDEI</groupId>
   <artifactId>ReminderEmail</artifactId>
-  <version>1.0</version>
+  <version>1.2</version>
   <name>ReminderEmail</name>
   <build>
     <plugins>
